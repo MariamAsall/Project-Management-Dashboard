@@ -1,8 +1,7 @@
 # Project-Management-Dashboard
 ## Overview
 
-This repository contains an interactive Project Management Dashboard built using Power BI. The dashboard transforms raw project data into actionable insights, empowering project managers and stakeholders to monitor progress, allocate resources efficiently, and track key project metrics in real time.
-
+This repository contains an interactive Project Management Dashboard designed in Power BI. The dashboard provides a comprehensive overview of project portfolio performance, enabling stakeholders to monitor cost reduction, working capital, income generation, and process improvement across multiple projects and regions. The dashboard is built to support data-driven decision-making and efficient resource allocation.
 ---
 
 ## Repository Contents
